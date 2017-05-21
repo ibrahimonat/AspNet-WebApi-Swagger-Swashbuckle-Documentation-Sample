@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerWebApiDocs</name>
+    </assembly>
+    <members>
+        <member name="T:SwaggerWebApiDocs.Controllers.CustomerController">
+            <summary>
+            Sample Customer Controller
+            </summary>
+        </member>
+        <member name="M:SwaggerWebApiDocs.Controllers.CustomerController.Get(System.String)">
+            <summary>
+            Getting Customer Model By Customer Name
+            </summary>
+            <param name="name">Name of the Customer as String</param>
+            <returns>Customer Object</returns>
+        </member>
+        <member name="M:SwaggerWebApiDocs.Controllers.CustomerController.Post(SwaggerWebApiDocs.Models.Customer)">
+            <summary>
+            Adding Customer Model
+            </summary>
+            <param name="customer">Customer Object</param>
+            <returns>Customer</returns>
+        </member>
+        <member name="T:SwaggerWebApiDocs.Controllers.UserController">
+            <summary>
+            Sample User Controller
+            </summary>
+        </member>
+        <member name="M:SwaggerWebApiDocs.Controllers.UserController.GetUserByName(System.String)">
+            <summary>
+            Getting User Model By User Name
+            </summary>
+            <param name="name">Name of the User as String</param>
+            <returns>User Object</returns>
+        </member>
+        <member name="M:SwaggerWebApiDocs.Controllers.UserController.AddUser(SwaggerWebApiDocs.Models.User)">
+            <summary>
+            Adding User Model
+            </summary>
+            <param name="user">User Object</param>
+            <returns>Name of the User as String</returns>
+        </member>
+        <member name="T:SwaggerWebApiDocs.Models.Customer">
+            <summary>
+            Sample Class for Customer
+            </summary>
+        </member>
+        <member name="P:SwaggerWebApiDocs.Models.Customer.Name">
+            <summary>
+            Name of the Customer
+            </summary>
+        </member>
+        <member name="P:SwaggerWebApiDocs.Models.Customer.Address">
+            <summary>
+            Address of the Customer
+            </summary>
+        </member>
+        <member name="T:SwaggerWebApiDocs.Models.User">
+            <summary>
+            Sample User Slass
+            </summary>
+        </member>
+        <member name="P:SwaggerWebApiDocs.Models.User.Name">
+            <summary>
+            Name of the User
+            </summary>
+        </member>
+        <member name="P:SwaggerWebApiDocs.Models.User.Email">
+            <summary>
+            Email of the User. For example, name@email.com
+            </summary>
+        </member>
+    </members>
+</doc>
