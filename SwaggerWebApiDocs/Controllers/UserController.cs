@@ -32,7 +32,7 @@ namespace SwaggerWebApiDocs.Controllers
         /// <returns>Name of the User as String</returns>
         [HttpPost]
         [Route("api/v1/AddUser")]
-        public IHttpActionResult AddUser(User user)
+        public IHttpActionResult AddUser([FromBody] User user)
         {
             return Ok(user.Name);
         }

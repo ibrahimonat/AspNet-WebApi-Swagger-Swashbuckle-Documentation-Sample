@@ -57,19 +57,49 @@
             Address of the Customer
             </summary>
         </member>
+        <member name="P:SwaggerWebApiDocs.Models.Customer.AdditionalArgs">
+            <summary>
+            AdditionalArgs of the User
+            </summary>
+        </member>
+        <member name="T:SwaggerWebApiDocs.Models.AdditionalArgs">
+            <summary>
+            Additional informations for User
+            </summary>
+        </member>
+        <member name="P:SwaggerWebApiDocs.Models.AdditionalArgs.Parameters">
+            <summary>
+            Additional information property for User
+            </summary>
+        </member>
         <member name="T:SwaggerWebApiDocs.Models.User">
             <summary>
             Sample User Slass
             </summary>
         </member>
-        <member name="P:SwaggerWebApiDocs.Models.User.Name">
-            <summary>
-            Name of the User
-            </summary>
-        </member>
         <member name="P:SwaggerWebApiDocs.Models.User.Email">
             <summary>
             Email of the User. For example, name@email.com
+            </summary>
+        </member>
+        <member name="T:SwaggerWebApiDocs.Models.Person">
+            <summary>
+            Person is humanbeing
+            </summary>
+        </member>
+        <member name="P:SwaggerWebApiDocs.Models.Person.Name">
+            <summary>
+            Name of the Person
+            </summary>
+        </member>
+        <member name="T:SwaggerWebApiDocs.Models.Humanbeing">
+            <summary>
+            Humanbeing is a live being
+            </summary>
+        </member>
+        <member name="P:SwaggerWebApiDocs.Models.Humanbeing.Age">
+            <summary>
+            Age of the Humanbeing
             </summary>
         </member>
     </members>

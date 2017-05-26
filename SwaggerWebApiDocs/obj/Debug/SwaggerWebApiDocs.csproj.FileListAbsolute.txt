@@ -30,3 +30,35 @@ C:\Users\İbrahim Onat\Documents\Visual Studio 2015\Projects\SwaggerWebApiDocs\S
 C:\Users\İbrahim Onat\Documents\Visual Studio 2015\Projects\SwaggerWebApiDocs\SwaggerWebApiDocs\obj\Debug\SwaggerWebApiDocs.dll
 C:\Users\İbrahim Onat\Documents\Visual Studio 2015\Projects\SwaggerWebApiDocs\SwaggerWebApiDocs\obj\Debug\SwaggerWebApiDocs.pdb
 C:\Users\İbrahim Onat\Documents\Visual Studio 2015\Projects\SwaggerWebApiDocs\SwaggerWebApiDocs\obj\Debug\SwaggerWebApiDocs.csprojResolveAssemblyReference.cache
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\csc.exe
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\System.Collections.Immutable.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\System.Reflection.Metadata.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\vbc.exe
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\VBCSCompiler.exe
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\roslyn\VBCSCompiler.exe.config
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\SwaggerWebApiDocs.dll.config
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\SwaggerWebApiDocs.XML
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\SwaggerWebApiDocs.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\SwaggerWebApiDocs.pdb
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\Microsoft.Web.Infrastructure.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\Newtonsoft.Json.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\Swashbuckle.Core.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\System.Net.Http.Formatting.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\System.Web.Http.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\System.Web.Http.WebHost.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\WebActivatorEx.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\Newtonsoft.Json.xml
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\System.Net.Http.Formatting.xml
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\System.Web.Http.xml
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\bin\System.Web.Http.WebHost.xml
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\obj\Debug\SwaggerWebApiDocs.csprojResolveAssemblyReference.cache
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\obj\Debug\SwaggerWebApiDocs.dll
+C:\git\AspNet-WebApi-Swagger-Swashbuckle-Documentation-Sample\SwaggerWebApiDocs\obj\Debug\SwaggerWebApiDocs.pdb
